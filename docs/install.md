@@ -108,4 +108,4 @@ stdout_logfile=/srv/bin/osrm-wheelchair.log
 stderr_logfile=/srv/bin/osrm-wheelchair.error.log
 ```
 
-See the [Docmentation](use.md) for usage notes.
+See the [documentation](use.md) page for usage notes.
