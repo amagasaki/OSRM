@@ -29,6 +29,10 @@ Hackathon. You can use the following API Key in your application:
 ```
 ee0b8233adff52ce9fd6afc2a2859a28
 ```
+or
+```
+b40bec9081e27b2b693c6f66aa551e27
+```
 
 This key has to be specified in a request such as
 http://openls.geog.uni-heidelberg.de/route?api_key=ee0b8233adff52ce9fd6afc2a2859a28
